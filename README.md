@@ -42,4 +42,4 @@ Check the boxes of the type of data you want to enter then type the data you wan
 
 ![Step 4](https://github.com/TheUncannyScrub/ID3-Tag-Editor/blob/master/howToImages/step4.png)
 
-Once you are happy with the data click `Write` to write the Meta data to the file then clikc `Next` or `Previous` or just clikc on the file you want to edit next
+Once you are happy with the data click `Write` to write the Meta data to the file then clikc `Next` or `Previous` or just click on the file you want to edit next.
