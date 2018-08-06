@@ -11,6 +11,8 @@ use the Previous and Next Buttons to just go through the list one by one.
 I Designed this as a work around for another project of mine. [Youtube Downloader](https://github.com/TheUncannyScrub/Youtube-video-downloader).
 The youtube downlodaer could download entire playlists at once but wouldnt allow for meta data (id3 Tags) to be set. This software was that solution.
 
+Download here: [This](https://github.com/TheUncannyScrub/ID3-Tag-Editor/releases)
+
 ###
 
 ## How To use:
